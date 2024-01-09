@@ -1,0 +1,11 @@
+10
+caine pug mascul predat 7 13 300
+pisica mix femela maidanez 13 15 200
+caine soricar femela predat 2 14 350
+pasare rata necunoscut maidanez 2 7 180
+rozator capybara necunoscut predat 5 9 800
+pasare jako necunoscut predat 3 13 150
+caine rottweiler mascul predat 5 9 1500
+caine boxer mascul maidanez 9 11 1600
+pisica birmaneza necunoscut predat 3 15 300
+pisica siameza femela maidanez 9 18 250

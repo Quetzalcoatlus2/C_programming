@@ -1,0 +1,14 @@
+caine soricar 12 ani ramasi de trait
+pasare rata 5 ani ramasi de trait
+pasare jako 10 ani ramasi de trait
+pisica birmaneza 12 ani ramasi de trait
+rozator capybara 4 ani ramasi de trait
+caine rottweiler 4 ani ramasi de trait
+caine pug 6 ani ramasi de trait
+caine boxer 2 ani ramasi de trait
+pisica siameza 9 ani ramasi de trait
+pisica mix 2 ani ramasi de trait
+
+Din cele 10 animale, 3 sunt masculi, 3 sunt femele si pentru 4 nu s-a putut identifica sexul la primire.
+Din cele 10 animale, 4 sunt maidanezeze si 6 au fost predate de proprietarii lor.
+Suma medie de bani de care centrul are nevoie pentru a intretine animalele pentru restul vietilor lor este 27050 lei.

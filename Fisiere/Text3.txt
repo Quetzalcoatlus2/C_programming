@@ -1,0 +1,3 @@
+Numarul elementelor este:  2 
+1
+2
